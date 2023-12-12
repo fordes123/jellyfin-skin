@@ -806,7 +806,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 }
 
 #loginPage {
-    background: url(https://gcore.jsdelivr.net/gh/fordes123/jellyfin-skin@image/background.png) !important;
+    background: url(https://gcore.jsdelivr.net/gh/fordes123/jellyfin-skin@master/image/background.png) !important;
     background-size: cover !important;
 }
 
